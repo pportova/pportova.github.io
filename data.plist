@@ -13,8 +13,8 @@
 	fuel = "60";
 	helicopters = "48";
 	light = "2";
-	personnel = "10000+";
+	personnel = "11000+";
 	tanks = "285";
 	vehicles = "447";
-	Date = "05.03.2022";
+	Date = "06.03.2022";
 }
