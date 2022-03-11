@@ -12,7 +12,7 @@
 	artillery = "125";
 	fuel = "60";
 	helicopters = "83";
-	light = "3";
+	boats = "3";
 	personnel = "12000+";
 	tanks = "353";
 	vehicles = "558";
