@@ -4,20 +4,20 @@
 // from a binary version on disk and should not be saved as
 // the ASCII format is a subset of the binary representation!
 //
-{	APV = "2063";
-	MLRS = "132";
-	UAV = "158";
-	aircraft = "169";
+{	APV = "2087";
+	MLRS = "136";
+	UAV = "165";
+	aircraft = "171";
 	anti = "67";
-	artillery = "386";
+	artillery = "391";
 	fuel = "76";
 	helicopters = "150";
 	boats = "8";
-	personnel = "20800";
-	tanks = "802";
-	vehicles = "1495";
+	personnel = "20900";
+	tanks = "815";
+	vehicles = "1504";
 	special = "27";
 	mobile = "4";
-	Date = "19.04.2022";
+	Date = "20.04.2022";
 	
 }
